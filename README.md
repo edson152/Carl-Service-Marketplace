@@ -358,17 +358,6 @@ server {
 }
 ```
 
-### Option B: Railway / Render (Easy Cloud)
-
-1. Push code to GitHub
-2. Connect repo to Railway.app or Render.com
-3. Set environment variables in dashboard
-4. Deploy backend first, note the URL
-5. Update frontend `package.json` proxy to backend URL
-6. Deploy frontend
-
----
-
 ## 🔧 Troubleshooting
 
 ### Port already in use
@@ -461,4 +450,4 @@ npm run server
 ---
 
 **Carl Service Marketplace** — Built for Zimbabwe 🇿🇼 & South Africa 🇿🇦  
-*Questions? Contact: carl@carlservices.com*
+*Questions? Contact: edsonnyoni92@@gmail.com*
